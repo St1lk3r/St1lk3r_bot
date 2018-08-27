@@ -1,1 +1,1 @@
-web: python start.py $PORT
+bot: python start.py
