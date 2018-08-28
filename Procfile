@@ -1,2 +1,1 @@
-web: python start.py $PORT
-heroku ps:scale web=1
+web: python start.py runserver 0.0.0.0:$PORT
